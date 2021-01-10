@@ -2272,5 +2272,11 @@
     "type": "general",
     "setup": "How good are you at Power Point?",
     "punchline": "I Excel at it."
+  },
+  {
+    "id": 389,
+    "type": "general",
+    "setup": "Why did the banana go to the doctor?",
+    "punchline": "Because it was not peeling well."
   }
 ]
